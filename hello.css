@@ -1,0 +1,5 @@
+hr.dash {
+    border-top: 3px dashed #bbb;
+    position: relative;
+    top: 150px;
+}
